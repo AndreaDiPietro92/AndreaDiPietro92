@@ -1,7 +1,10 @@
 ### Hi there 👋
+Studente dell'UniME
 
 <!--
 **AndreaDiPietro92/AndreaDiPietro92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+All is work in progress
 
 Here are some ideas to get you started:
 
@@ -13,4 +16,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
